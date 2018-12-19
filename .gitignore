@@ -1,0 +1,6 @@
+
+src/environments/config.ts
+src/environments/*.*.ts
+node_modules
+dist
+pdfs
